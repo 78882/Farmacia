@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu App de Medicamentos</string>
+    <string name="add_medication">Adicionar Medicamento</string>
+    <string name="save_medication">Salvar Medicamento</string>
+    <string name="medication_name_hint">Nome do Medicamento</string>
+    <string name="description_hint">Descrição</string>
+    <string name="time_hint">Hora de Tomar</string>
+    <string name="consumed">Consumido</string>
+    <string name="mark_consumed">Marcar como Consumido</string>
+</resources>

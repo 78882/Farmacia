@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Medication App</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="save_medication">Save Medication</string>
+    <string name="medication_name_hint">Medication Name</string>
+    <string name="description_hint">Description</string>
+    <string name="time_hint">Time to Take</string>
+    <string name="consumed">Consumed</string>
+    <string name="mark_consumed">Mark as Consumed</string>
+</resources>
